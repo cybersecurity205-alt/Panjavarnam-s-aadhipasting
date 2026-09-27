@@ -1,0 +1,16 @@
+[
+  {
+    "id": "offer-1",
+    "title": "Diwali & New Year 2026 Advance Calendar Booking",
+    "description": "Book high-volume daily tear-offs or wall calendar tinning in advance and get an exclusive 10% volume rebate with zero-delay delivery guarantee.",
+    "bannerImage": "/images/blush/hero-calendar-desk.jpg",
+    "discountPercentage": 20,
+    "discountCode": "FESTIVAL2026",
+    "startDate": "2026-09-20",
+    "endDate": "2026-11-24",
+    "destinationUrl": "/contact#quote",
+    "isActive": true,
+    "createdAt": "2026-09-25T18:26:02.804Z",
+    "updatedAt": "2026-09-26T16:00:13.226Z"
+  }
+]

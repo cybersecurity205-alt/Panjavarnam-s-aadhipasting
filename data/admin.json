@@ -1,0 +1,11 @@
+[
+  {
+    "id": "admin-1",
+    "email": "admin@aadhipasting.com",
+    "name": "Aadhi Pasting Administrator",
+    "role": "super_admin",
+    "passwordHash": "3459c797a2fc0242b49c0f0db9f5011d2ebafd94824412f001c732147438a0eef3c1be43870ee8ced5c42784e55a842c5dfdcc9674a4a2d04007f3b31892433e",
+    "passwordSalt": "ee98a8b954856c4c4ed5f984dd5aac25",
+    "createdAt": "2026-09-25T18:31:41.862Z"
+  }
+]

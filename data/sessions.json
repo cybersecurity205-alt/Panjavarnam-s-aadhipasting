@@ -1,0 +1,11 @@
+[
+  {
+    "token": "6ab7e8c747f8b5561d37859b9e53109971891e445eed13851c92c34e98ec2ad8",
+    "userId": "admin-1",
+    "email": "admin@aadhipasting.com",
+    "name": "Aadhi Pasting Administrator",
+    "role": "super_admin",
+    "expiresAt": "2026-09-26T18:31:41.954Z",
+    "createdAt": "2026-09-25T18:31:41.954Z"
+  }
+]

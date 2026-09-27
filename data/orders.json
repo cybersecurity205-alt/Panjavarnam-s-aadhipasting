@@ -1,0 +1,68 @@
+[
+  {
+    "customerName": "S. Ramanathan",
+    "phone": "+91 98410 99887",
+    "email": "ramanathan@chennaiprinters.com",
+    "address": "Chennai",
+    "items": [
+      {
+        "productId": "prod-3",
+        "name": "Executive Desk Spiral Calendar",
+        "sku": "AP-DSK-003",
+        "quantity": 500,
+        "price": 95
+      }
+    ],
+    "totalAmount": 47500,
+    "status": "shipped",
+    "notes": "Type: Commercial Bulk Order | Company: Sri Murugan Offset | Hub/City: Chennai | Customer Note: Need custom gold foil hot stamping",
+    "id": "ord-1790428996228",
+    "orderNumber": "ORD-2026-003",
+    "createdAt": "2026-09-26T13:23:16.228Z",
+    "updatedAt": "2026-09-27T03:11:17.781Z"
+  },
+  {
+    "id": "ord-201",
+    "orderNumber": "ORD-2026-001",
+    "customerName": "Sree Meenakshi Offset Printers",
+    "phone": "+91 98421 99881",
+    "email": "orders@meenakshioffset.com",
+    "address": "142 Kamarajar Road, Sivakasi, Tamil Nadu - 626123",
+    "items": [
+      {
+        "productId": "prod-1",
+        "name": "Daily Tamil Calendar Tear-Off Block (15x20 in)",
+        "sku": "AP-CAL-001",
+        "quantity": 5000,
+        "price": 42
+      }
+    ],
+    "totalAmount": 210000,
+    "status": "processing",
+    "notes": "First batch of 2,500 units dispatched via Sivakasi logistics truck.",
+    "createdAt": "2026-09-22T18:37:32.097Z",
+    "updatedAt": "2026-09-24T18:37:32.097Z"
+  },
+  {
+    "id": "ord-202",
+    "orderNumber": "ORD-2026-002",
+    "customerName": "Venkateshwara Benefit Chits Ltd",
+    "phone": "+91 98401 55667",
+    "email": "admin@vbchits.in",
+    "address": "88 Anna Salai, Chennai, Tamil Nadu - 600002",
+    "items": [
+      {
+        "productId": "prod-5",
+        "name": "Reinforced Chit Fund Monthly Savings Passbook",
+        "sku": "AP-CHT-005",
+        "quantity": 2000,
+        "price": 28
+      }
+    ],
+    "totalAmount": 56000,
+    "status": "delivered",
+    "notes": "Full consignment delivered and receipt confirmed by store manager.",
+    "createdAt": "2026-09-18T18:37:32.097Z",
+    "updatedAt": "2026-09-23T18:37:32.097Z"
+  }
+]

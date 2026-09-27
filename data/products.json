@@ -1,0 +1,198 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Daily Tamil Calendar Tear-Off Block (15x20 in)",
+    "slug": "daily-tamil-calendar-tear-off-block",
+    "sku": "AP-CAL-001",
+    "categoryId": "cat-religious-calendars",
+    "categoryName": "Religious Calendars",
+    "description": "Complete mounting of 365-day Tamil & English tear-off daily calendar blocks onto 2.0mm high-caliper greyboard backing with precision tinning rim and hanging loop.",
+    "shortDescription": "Daily 365-day tear-off calendar on 2.0mm greyboard with tinning hanger.",
+    "price": 45,
+    "salePrice": 42,
+    "stock": 15000,
+    "availability": "in_stock",
+    "isFeatured": true,
+    "isActive": true,
+    "image": "/images/blush/cat-devotional-calendar.jpg",
+    "images": [
+      "/images/blush/cat-devotional-calendar.jpg",
+      "/images/blush/hero-calendar-desk.jpg"
+    ],
+    "specs": [
+      "Sheet Size: 15x20 in",
+      "Board: 2.0mm High-Caliper Greyboard",
+      "Tinning: Galvanized Steel with Hanger",
+      "Glue: Anti-Warp pH-Neutral"
+    ],
+    "createdAt": "2026-09-25T18:37:32.092Z",
+    "updatedAt": "2026-09-27T03:11:02.284Z"
+  },
+  {
+    "id": "prod-2",
+    "name": "Monthly Multi-Sheet Wall Calendar with Tinning (17x27 in)",
+    "slug": "monthly-multi-sheet-wall-calendar",
+    "sku": "AP-CAL-002",
+    "categoryId": "cat-wall-calendars",
+    "categoryName": "Wall Calendars",
+    "description": "Reinforced tinning header mounting for 6-sheet and 12-sheet monthly wall planners. Precision eyelet punching and crimped galvanized rim prevent sheet slippage.",
+    "shortDescription": "6/12-sheet wall planner with metal tinning strip & eyelet hook.",
+    "price": 65,
+    "salePrice": 58,
+    "stock": 8000,
+    "availability": "in_stock",
+    "isFeatured": true,
+    "isActive": true,
+    "image": "/images/blush/cat-wall-calendar.jpg",
+    "images": [
+      "/images/blush/cat-wall-calendar.jpg"
+    ],
+    "specs": [
+      "Sheet Size: 17x27 in",
+      "Sheets: 6 or 12 Sheets (130 GSM Art Paper)",
+      "Rim: Heavy Gauge Tinning with Eyelet",
+      "Tolerance: Zero Slip Calibrated"
+    ],
+    "createdAt": "2026-09-25T18:37:32.092Z",
+    "updatedAt": "2026-09-25T18:37:32.092Z"
+  },
+  {
+    "id": "prod-3",
+    "name": "Executive Desk Spiral Calendar on Rigid Easel Stand",
+    "slug": "executive-desk-spiral-calendar",
+    "sku": "AP-DSK-003",
+    "categoryId": "cat-monthly-calendars",
+    "categoryName": "Monthly Calendars",
+    "description": "Wire-O spiral bound desk planner mounted onto sturdy 2.5mm Kappa triangular easel board. Includes luxury matte lamination and optional gold foil branding.",
+    "shortDescription": "Triangular easel desk calendar with Wire-O binding and rigid Kappa board.",
+    "price": 110,
+    "salePrice": 95,
+    "stock": 5000,
+    "availability": "in_stock",
+    "isFeatured": true,
+    "isActive": true,
+    "image": "/images/blush/cat-monthly-calendar.jpg",
+    "images": [
+      "/images/blush/cat-monthly-calendar.jpg",
+      "/images/blush/hero-calendar-desk.jpg"
+    ],
+    "specs": [
+      "Base Size: 8.5x6 in",
+      "Board: 2.5mm Rigid Kappa Easel Stand",
+      "Binding: Double Wire-O Twin Loop",
+      "Finish: Velvet Touch Lamination"
+    ],
+    "createdAt": "2026-09-25T18:37:32.092Z",
+    "updatedAt": "2026-09-25T18:37:32.092Z"
+  },
+  {
+    "id": "prod-4",
+    "name": "Corporate Triangle Easel Calendar with Foil Accents",
+    "slug": "corporate-triangle-easel-calendar",
+    "sku": "AP-CORP-004",
+    "categoryId": "cat-corporate-calendars",
+    "categoryName": "Corporate Calendars",
+    "description": "Artisanal corporate calendar created for banks, IT companies, and corporate gifting. Features gold-foil embossed header, monthly tabs, and anti-scuff varnish.",
+    "shortDescription": "Corporate tent calendar with gold foil hot-stamping and custom tabs.",
+    "price": 135,
+    "salePrice": 120,
+    "stock": 3500,
+    "availability": "in_stock",
+    "isFeatured": true,
+    "isActive": true,
+    "image": "/images/blush/cat-corporate-calendar.jpg",
+    "images": [
+      "/images/blush/cat-corporate-calendar.jpg"
+    ],
+    "specs": [
+      "Dimensions: 9x7 in",
+      "Board: 3.0mm Imported Rigid Greyboard",
+      "Embossing: Hot Foil Stamped Logo",
+      "Dispatch: Individual Shrink Polybags"
+    ],
+    "createdAt": "2026-09-25T18:37:32.092Z",
+    "updatedAt": "2026-09-25T18:37:32.092Z"
+  },
+  {
+    "id": "prod-5",
+    "name": "Reinforced Chit Fund Monthly Savings Passbook",
+    "slug": "reinforced-chit-fund-passbook",
+    "sku": "AP-CHT-005",
+    "categoryId": "cat-custom-designs",
+    "categoryName": "Custom Designs & Chits",
+    "description": "Heavy-duty chit fund customer passbook with cloth-hinged spine reinforcement, tamper-evident security glue, and high-density greyboard cover lamination.",
+    "shortDescription": "Cloth-reinforced rigid chit passbook with tamper-evident binding.",
+    "price": 28,
+    "stock": 25000,
+    "availability": "in_stock",
+    "isFeatured": true,
+    "isActive": true,
+    "image": "/images/blush/cat-custom-designs.jpg",
+    "images": [
+      "/images/blush/cat-custom-designs.jpg"
+    ],
+    "specs": [
+      "Size: 4.5x7 in",
+      "Cover: 1.5mm - 2.0mm Laminated Greyboard",
+      "Spine: Heavy Woven Linen Cloth Reinforcement",
+      "Security: Tamper-Resistant Adhesive Bond"
+    ],
+    "createdAt": "2026-09-25T18:37:32.092Z",
+    "updatedAt": "2026-09-25T18:37:32.092Z"
+  },
+  {
+    "id": "prod-6",
+    "name": "Chit Collection Monthly Ledger Card & Jacket",
+    "slug": "chit-collection-ledger-card",
+    "sku": "AP-CHT-006",
+    "categoryId": "cat-custom-designs",
+    "categoryName": "Custom Designs & Chits",
+    "description": "Durable monthly installment tracking card pasted onto rigid greyboard slipcovers. Built to withstand daily field collection handling by agents for up to 3 years.",
+    "shortDescription": "Daily field agent collection card with stiff protective slipcover.",
+    "price": 18,
+    "stock": 40000,
+    "availability": "in_stock",
+    "isFeatured": false,
+    "isActive": true,
+    "image": "/images/gallery/custom-rigid-binding.jpg",
+    "images": [
+      "/images/gallery/custom-rigid-binding.jpg"
+    ],
+    "specs": [
+      "Card Caliper: 400 GSM Rigid Card",
+      "Jacket: 1.8mm Laminated Kappa",
+      "Grid: 25/50 Monthly Payment Matrix",
+      "Durability: Water-Resistant Outer Wrap"
+    ],
+    "createdAt": "2026-09-25T18:37:32.092Z",
+    "updatedAt": "2026-09-25T18:37:32.092Z"
+  },
+  {
+    "id": "prod-7",
+    "name": "Bespoke Botanical Calendar on Wooden Stand",
+    "slug": "bespoke-botanical-calendar-wooden-stand",
+    "sku": "AP-BES-007",
+    "categoryId": "cat-corporate-calendars",
+    "categoryName": "Corporate Calendars",
+    "description": "Artisanal floral monthly sheets on textured cotton paper mounted on a natural beechwood desk block with brass calendar binder pin.",
+    "shortDescription": "Botanical calendar with natural wood desk stand and textured art paper.",
+    "price": 240,
+    "salePrice": 199,
+    "stock": 1200,
+    "availability": "in_stock",
+    "isFeatured": true,
+    "isActive": true,
+    "image": "/images/blush/vision-calendar-desk.jpg",
+    "images": [
+      "/images/blush/vision-calendar-desk.jpg"
+    ],
+    "specs": [
+      "Sheet Size: 6x8 in",
+      "Paper: 280 GSM Cotton Felt Texture",
+      "Stand: Natural Beechwood Base",
+      "Finishing: Hand-Clipped Brass Pin"
+    ],
+    "createdAt": "2026-09-25T18:37:32.092Z",
+    "updatedAt": "2026-09-25T18:37:32.092Z"
+  }
+]

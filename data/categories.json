@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cat-wall-calendars",
+    "name": "Wall Calendars",
+    "slug": "wall-calendars",
+    "tag": "High Volume",
+    "description": "Multi-sheet monthly wall planners with reinforced tinning strips and hanging eyelets.",
+    "image": "/images/blush/cat-wall-calendar.jpg",
+    "displayOrder": 1,
+    "isActive": true,
+    "createdAt": "2026-09-25T18:37:32.094Z",
+    "updatedAt": "2026-09-25T18:37:32.094Z"
+  },
+  {
+    "id": "cat-monthly-calendars",
+    "name": "Monthly Calendars",
+    "slug": "monthly-calendars",
+    "tag": "Desk & Office",
+    "description": "Wire-o spiral desktop calendars mounted on stiff, perfectly flat kappa board.",
+    "image": "/images/blush/cat-monthly-calendar.jpg",
+    "displayOrder": 2,
+    "isActive": true,
+    "createdAt": "2026-09-25T18:37:32.094Z",
+    "updatedAt": "2026-09-25T18:37:32.094Z"
+  },
+  {
+    "id": "cat-corporate-calendars",
+    "name": "Corporate Calendars",
+    "slug": "corporate-calendars",
+    "tag": "Executive Series",
+    "description": "Easel-stand branded triangle calendars with elegant foil stamping and custom finishing.",
+    "image": "/images/blush/cat-corporate-calendar.jpg",
+    "displayOrder": 3,
+    "isActive": true,
+    "createdAt": "2026-09-25T18:37:32.094Z",
+    "updatedAt": "2026-09-25T18:37:32.094Z"
+  },
+  {
+    "id": "cat-religious-calendars",
+    "name": "Religious Calendars",
+    "slug": "religious-calendars",
+    "tag": "Artisanal Edition",
+    "description": "Tamil daily tear-off calendar blocks mounted onto high-caliper greyboard backings.",
+    "image": "/images/blush/cat-devotional-calendar.jpg",
+    "displayOrder": 4,
+    "isActive": true,
+    "createdAt": "2026-09-25T18:37:32.094Z",
+    "updatedAt": "2026-09-25T18:37:32.094Z"
+  },
+  {
+    "id": "cat-custom-designs",
+    "name": "Custom Designs & Chits",
+    "slug": "custom-designs",
+    "tag": "Bespoke & Chits",
+    "description": "Specialized chit fund passbooks, collection cards, and personalized embossed binding.",
+    "image": "/images/blush/cat-custom-designs.jpg",
+    "displayOrder": 5,
+    "isActive": true,
+    "createdAt": "2026-09-25T18:37:32.094Z",
+    "updatedAt": "2026-09-25T18:37:32.094Z"
+  }
+]
